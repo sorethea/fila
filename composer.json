@@ -1,0 +1,22 @@
+{
+    "name": "sorethea/fila",
+    "description": "Generate filament resources for laravel-modules.",
+    "type": "plugin",
+    "require": {
+        "filament/filament": "2.0",
+        "filament/filament0": "9.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sorethea\\Fila\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sorethea OK",
+            "email": "sorethea@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
